@@ -1,5 +1,5 @@
-$ cd desktop
-$ mkdir InitRepo
-$ cd InitRepo
-$ touch initfile.py
-$ notepad initfile.py
+cd desktop
+mkdir InitRepo
+cd InitRepo
+touch initfile.py
+notepad initfile.py
